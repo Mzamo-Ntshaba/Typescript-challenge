@@ -24,7 +24,7 @@ Follow these steps to set up and run the project on your local machine:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/typescript-challenge.git
+git clone https://github.com/Mzamo-Ntshaba/typescript-challenge.git
 cd typescript-challenge
 ```
 
