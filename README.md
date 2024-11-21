@@ -33,16 +33,18 @@ Install the required dependencies (TypeScript, Lite-server, etc.) by running:
 
 ```bash
 npm install
-This will install the necessary packages such as TypeScript and Lite-server (for serving the project in the browser).
 ```
+This will install the necessary packages such as TypeScript and Lite-server (for serving the project in the browser).
 
 ### Compile TypeScript
 To compile the TypeScript code into JavaScript, run the following command:
 
 ```bash
 npx tsc
-This will compile your TypeScript files and output them to the dist/ directory.
 ```
+This will compile your TypeScript files
+
+
 ### Run the Project
 To start the development server and view the project in the browser, run:
 
