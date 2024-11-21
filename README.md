@@ -17,39 +17,35 @@ Each person has an ID, name, age, skills, birthdate, score, status, and an addre
 
 ## Project Setup
 
-### Prerequisites
-
-Make sure you have the following installed on your system:
-
-- **Node.js**: Make sure Node.js is installed. If not, [download it here](https://nodejs.org/).
-- **TypeScript**: TypeScript should be installed as part of this project.
+Follow these steps to set up and run the project on your local machine:
 
 ### Clone the Repository
-Clone this repository to your local machine:
+
+Clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/your-username/typescript-challenge.git
 cd typescript-challenge
+```
 
-
-### Install Dependencies
-Install the required dependencies by running:
+### Install Dependencies ###
+Install the required dependencies (TypeScript, Lite-server, etc.) by running:
 
 ```bash
 npm install
-
-This will install the required packages such as TypeScript and Lite-server (for serving the project in the browser).
+This will install the necessary packages such as TypeScript and Lite-server (for serving the project in the browser).
+```
 
 ### Compile TypeScript
-To compile the TypeScript code into JavaScript, run:
+To compile the TypeScript code into JavaScript, run the following command:
 
 ```bash
 npx tsc
-This will compile your TypeScript files into JavaScript and output them to the dist/ directory.
-
-
+This will compile your TypeScript files and output them to the dist/ directory.
+```
 ### Run the Project
 To start the development server and view the project in the browser, run:
 
 ```bash
 npm run dev
+```
