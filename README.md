@@ -32,7 +32,7 @@ git clone https://github.com/your-username/typescript-challenge.git
 cd typescript-challenge
 
 
-Install Dependencies
+### Install Dependencies
 Install the required dependencies by running:
 
 ```bash
@@ -40,14 +40,15 @@ npm install
 
 This will install the required packages such as TypeScript and Lite-server (for serving the project in the browser).
 
-Compile TypeScript
+### Compile TypeScript
 To compile the TypeScript code into JavaScript, run:
 
 ```bash
 npx tsc
 This will compile your TypeScript files into JavaScript and output them to the dist/ directory.
 
-Run the Project
+
+### Run the Project
 To start the development server and view the project in the browser, run:
 
 ```bash
