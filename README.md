@@ -1,4 +1,4 @@
-# TypeScript Challenge - People Cards
+# TypeScript Challenge
 
 ## Overview
 
